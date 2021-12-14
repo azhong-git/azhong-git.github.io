@@ -12,7 +12,7 @@ permalink: .well-known/apple-app-site-association
     "applinks": {
         "details": [
             {
-                "appID": "8KL66T9LL6.com.revar.app.Revar",
+                "appIDs": [ "8KL66T9LL6.com.revar.app.Revar" ],
                 "components": [
                     {
                         "/": "",
