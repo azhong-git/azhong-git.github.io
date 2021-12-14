@@ -8,5 +8,18 @@ permalink: .well-known/apple-app-site-association
         "apps": [
             "8KL66T9LL6.com.revar.app.Revar.Clip"
         ]
+    },
+    "applinks": {
+        "details": [
+            {
+                "appID": "8KL66T9LL6.com.revar.app.Revar",
+                "components": [
+                    {
+                        "/": "",
+                        "?": { "message": "?*" }
+                    }
+                ]
+            }
+        ]
     }
 }
