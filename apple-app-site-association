@@ -16,7 +16,7 @@ permalink: .well-known/apple-app-site-association
                 "components": [
                     {
                         "/": "",
-                        "?": { "message": "?*" }
+                        "?": { "m": "?*" }
                     }
                 ]
             }
